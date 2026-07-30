@@ -1,0 +1,21 @@
+# Friend Project - Python Dependencies
+venv/
+__pycache__/
+*.pyc
+
+# Local Environment Variables
+.env
+
+# SQLite Database
+app.db
+
+# PyInstaller Deployment Artifacts
+build/
+dist/
+deploy.spec
+project.tar.gz
+
+*.dll
+*.pyd
+*.zip
+
