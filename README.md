@@ -1,7 +1,7 @@
 # Event & Weather Hub
 
 **Live Website:** http://goted.tech  
-**Demo Video:** [Insert YouTube/Vimeo Link Here]
+**Demo Video:** https://youtube.com/shorts/y011LtyiOSE?feature=share
 
 For my assignment, I decided to build a simple web app that helps you plan your day. It takes a city name and uses two external APIs to show you the current weather and a list of upcoming local events in that city. I wanted it to actually be useful instead of just another random joke generator.
 
